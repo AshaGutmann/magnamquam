@@ -1,0 +1,27 @@
+{
+  "name": "magnamquam",
+  "version": "1.0.0",
+  "description": "A tab bar that switches between scenes, written in JS for cross-platform support",
+  "main": "TabNavigator.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AshaGutmann/magnamquam.git"
+  },
+  "keywords": [
+    "react-native",
+    "perferendis",
+    "navigator",
+    "ios",
+    "in"
+  ],
+  "author": "BradlyOrn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AshaGutmann/magnamquam.git/issues"
+  },
+  "homepage": "https://github.com/AshaGutmann/magnamquam.git",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "prop-types": "^15.5.10"
+  }
+}
